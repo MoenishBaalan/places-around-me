@@ -163,15 +163,17 @@ The main objectives of NLC Higher Secondary School are
 </font>
 </p>
 </body>
+
 </html>
 ```
 ## Output:
-Include your output screenshot here
-![output](ss.png)
-![output](mine.png)
-![ouput](school.png)
-![ouput](stantonyschruch.png)
-![output](neyvelibusstand.png)
-![output](canarabank.png)
+![ss](https://github.com/MoenishBaalan/places-around-me/assets/147473396/40604b10-a88c-4d94-b704-3f0e7ce8c889)
+![mine](https://github.com/MoenishBaalan/places-around-me/assets/147473396/8c792c5f-e53e-42e4-82a1-3cef11997e37)
+![school](https://github.com/MoenishBaalan/places-around-me/assets/147473396/314b74ac-6aea-4190-87b9-f00c90ac5f20)
+![canarabank](https://github.com/MoenishBaalan/places-around-me/assets/147473396/26b42eae-206e-4ecb-a762-1662962df29d)
+![neyvelibusstand](https://github.com/MoenishBaalan/places-around-me/assets/147473396/680168f4-f433-4337-ba79-6ccf83d34229)
+![stantonyschruch](https://github.com/MoenishBaalan/places-around-me/assets/147473396/e0fdd615-e849-429f-b426-2c4bb93779d5)
+
+![output]
 ## Result:
 program excecuted succesfully
