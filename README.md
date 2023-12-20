@@ -167,13 +167,21 @@ The main objectives of NLC Higher Secondary School are
 </html>
 ```
 ## Output:
-![ss](https://github.com/MoenishBaalan/places-around-me/assets/147473396/40604b10-a88c-4d94-b704-3f0e7ce8c889)
-![mine](https://github.com/MoenishBaalan/places-around-me/assets/147473396/8c792c5f-e53e-42e4-82a1-3cef11997e37)
-![school](https://github.com/MoenishBaalan/places-around-me/assets/147473396/314b74ac-6aea-4190-87b9-f00c90ac5f20)
-![canarabank](https://github.com/MoenishBaalan/places-around-me/assets/147473396/26b42eae-206e-4ecb-a762-1662962df29d)
-![neyvelibusstand](https://github.com/MoenishBaalan/places-around-me/assets/147473396/680168f4-f433-4337-ba79-6ccf83d34229)
-![stantonyschruch](https://github.com/MoenishBaalan/places-around-me/assets/147473396/e0fdd615-e849-429f-b426-2c4bb93779d5)
+![image](https://github.com/MoenishBaalan/places-around-me/assets/147473396/302f8444-bf31-4ce3-a926-63526774acf7)
 
-![output]
+![WhatsApp Image 2023-12-20 at 7 03 08 PM](https://github.com/MoenishBaalan/places-around-me/assets/147473396/480816d5-6fa3-4d63-9a28-ed7d4b0abcc0)
+
+![WhatsApp Image 2023-12-20 at 7 03 07 PM](https://github.com/MoenishBaalan/places-around-me/assets/147473396/afa92b3b-d4ce-4d1b-89ba-5b58c56cfa47)
+
+![WhatsApp Image 2023-12-20 at 7 03 07 PM (1)](https://github.com/MoenishBaalan/places-around-me/assets/147473396/e44e1b57-e900-4cbb-88e2-efe3f42720d2)
+
+![WhatsApp Image 2023-12-20 at 7 03 07 PM (2)](https://github.com/MoenishBaalan/places-around-me/assets/147473396/fac114f7-a1a8-4796-a1f8-55f3f6bef987)
+
+![WhatsApp Image 2023-12-20 at 7 03 06 PM (1)](https://github.com/MoenishBaalan/places-around-me/assets/147473396/79524f2b-fa0d-41bc-94a2-52692d04c14c)
+
+
+
+
+
 ## Result:
 program excecuted succesfully
