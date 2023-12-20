@@ -5,8 +5,9 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the github repository into Theia IDE.Create a new Django project.
 ### Step 2:
+Write the needed HTML code.Run the Django server and excute the HTML files.
 
 ## Code:
 Include your HTML code here
